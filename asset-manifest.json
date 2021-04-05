@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/annavaleska/static/css/main.f57327f1.chunk.css",
+    "main.js": "/annavaleska/static/js/main.1f276901.chunk.js",
+    "main.js.map": "/annavaleska/static/js/main.1f276901.chunk.js.map",
+    "runtime-main.js": "/annavaleska/static/js/runtime-main.ab232644.js",
+    "runtime-main.js.map": "/annavaleska/static/js/runtime-main.ab232644.js.map",
+    "static/js/2.c774472a.chunk.js": "/annavaleska/static/js/2.c774472a.chunk.js",
+    "static/js/2.c774472a.chunk.js.map": "/annavaleska/static/js/2.c774472a.chunk.js.map",
+    "index.html": "/annavaleska/index.html",
+    "static/css/main.f57327f1.chunk.css.map": "/annavaleska/static/css/main.f57327f1.chunk.css.map",
+    "static/js/2.c774472a.chunk.js.LICENSE.txt": "/annavaleska/static/js/2.c774472a.chunk.js.LICENSE.txt",
+    "static/media/artsFour.4e56f28b.jpg": "/annavaleska/static/media/artsFour.4e56f28b.jpg",
+    "static/media/work.css": "/annavaleska/static/media/clothesMain.3a370801.jpg",
+    "static/media/artsOne.73ab45d0.jpg": "/annavaleska/static/media/artsOne.73ab45d0.jpg",
+    "static/media/artsThree.3df0ccd4.jpg": "/annavaleska/static/media/artsThree.3df0ccd4.jpg",
+    "static/media/artsTwo.00f6c1bd.jpg": "/annavaleska/static/media/artsTwo.00f6c1bd.jpg",
+    "static/media/project.css": "/annavaleska/static/media/bcProjects.133186d8.jpg",
+    "static/media/clothesEight.f9f0f569.jpg": "/annavaleska/static/media/clothesEight.f9f0f569.jpg",
+    "static/media/clothesEleven.067b8eb4.jpg": "/annavaleska/static/media/clothesEleven.067b8eb4.jpg",
+    "static/media/clothesFour.4b589105.jpg": "/annavaleska/static/media/clothesFour.4b589105.jpg",
+    "static/media/clothesNine.46b1fea3.jpg": "/annavaleska/static/media/clothesNine.46b1fea3.jpg",
+    "static/media/clothesOne.16ea46de.jpg": "/annavaleska/static/media/clothesOne.16ea46de.jpg",
+    "static/media/clothesSeven.9b5519e2.jpg": "/annavaleska/static/media/clothesSeven.9b5519e2.jpg",
+    "static/media/clothesSix.f6ced26a.jpg": "/annavaleska/static/media/clothesSix.f6ced26a.jpg",
+    "static/media/clothesTen.6c10b2ce.jpg": "/annavaleska/static/media/clothesTen.6c10b2ce.jpg",
+    "static/media/clothesThirteen.675a791a.jpg": "/annavaleska/static/media/clothesThirteen.675a791a.jpg",
+    "static/media/clothesThree.2ecf5222.jpg": "/annavaleska/static/media/clothesThree.2ecf5222.jpg",
+    "static/media/clothesTvelv.c171d9dc.jpg": "/annavaleska/static/media/clothesTvelv.c171d9dc.jpg",
+    "static/media/clothesTwo.2e170b92.jpg": "/annavaleska/static/media/clothesTwo.2e170b92.jpg",
+    "static/media/main.css": "/annavaleska/static/media/new.ef4a4dc9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab232644.js",
+    "static/js/2.c774472a.chunk.js",
+    "static/css/main.f57327f1.chunk.css",
+    "static/js/main.1f276901.chunk.js"
+  ]
+}
