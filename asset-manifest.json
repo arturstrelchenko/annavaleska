@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/annavaleska/static/css/main.582f560c.chunk.css",
-    "main.js": "/annavaleska/static/js/main.d8436d98.chunk.js",
-    "main.js.map": "/annavaleska/static/js/main.d8436d98.chunk.js.map",
+    "main.css": "/annavaleska/static/css/main.55190117.chunk.css",
+    "main.js": "/annavaleska/static/js/main.c6e87db8.chunk.js",
+    "main.js.map": "/annavaleska/static/js/main.c6e87db8.chunk.js.map",
     "runtime-main.js": "/annavaleska/static/js/runtime-main.ab232644.js",
     "runtime-main.js.map": "/annavaleska/static/js/runtime-main.ab232644.js.map",
-    "static/js/2.7656d007.chunk.js": "/annavaleska/static/js/2.7656d007.chunk.js",
-    "static/js/2.7656d007.chunk.js.map": "/annavaleska/static/js/2.7656d007.chunk.js.map",
+    "static/css/2.8cfa95fe.chunk.css": "/annavaleska/static/css/2.8cfa95fe.chunk.css",
+    "static/js/2.6bf5f352.chunk.js": "/annavaleska/static/js/2.6bf5f352.chunk.js",
+    "static/js/2.6bf5f352.chunk.js.map": "/annavaleska/static/js/2.6bf5f352.chunk.js.map",
     "index.html": "/annavaleska/index.html",
-    "static/css/main.582f560c.chunk.css.map": "/annavaleska/static/css/main.582f560c.chunk.css.map",
-    "static/js/2.7656d007.chunk.js.LICENSE.txt": "/annavaleska/static/js/2.7656d007.chunk.js.LICENSE.txt",
+    "static/css/2.8cfa95fe.chunk.css.map": "/annavaleska/static/css/2.8cfa95fe.chunk.css.map",
+    "static/css/main.55190117.chunk.css.map": "/annavaleska/static/css/main.55190117.chunk.css.map",
+    "static/js/2.6bf5f352.chunk.js.LICENSE.txt": "/annavaleska/static/js/2.6bf5f352.chunk.js.LICENSE.txt",
     "static/media/artsFour.4e56f28b.jpg": "/annavaleska/static/media/artsFour.4e56f28b.jpg",
     "static/media/work.css": "/annavaleska/static/media/clothesMain.3a370801.jpg",
     "static/media/artsOne.73ab45d0.jpg": "/annavaleska/static/media/artsOne.73ab45d0.jpg",
@@ -29,12 +31,14 @@
     "static/media/clothesTvelv.c171d9dc.jpg": "/annavaleska/static/media/clothesTvelv.c171d9dc.jpg",
     "static/media/clothesTwo.2e170b92.jpg": "/annavaleska/static/media/clothesTwo.2e170b92.jpg",
     "static/media/more.3df0ccd4.jpg": "/annavaleska/static/media/more.3df0ccd4.jpg",
-    "static/media/main.css": "/annavaleska/static/media/new.ef4a4dc9.png"
+    "static/media/main.css": "/annavaleska/static/media/new.ef4a4dc9.png",
+    "static/media/slick-theme.css": "/annavaleska/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.ab232644.js",
-    "static/js/2.7656d007.chunk.js",
-    "static/css/main.582f560c.chunk.css",
-    "static/js/main.d8436d98.chunk.js"
+    "static/css/2.8cfa95fe.chunk.css",
+    "static/js/2.6bf5f352.chunk.js",
+    "static/css/main.55190117.chunk.css",
+    "static/js/main.c6e87db8.chunk.js"
   ]
 }
