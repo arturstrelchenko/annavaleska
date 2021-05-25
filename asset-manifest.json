@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/annavaleska/static/css/main.5e3c6a1e.chunk.css",
-    "main.js": "/annavaleska/static/js/main.4e7ad486.chunk.js",
-    "main.js.map": "/annavaleska/static/js/main.4e7ad486.chunk.js.map",
+    "main.css": "/annavaleska/static/css/main.9662b636.chunk.css",
+    "main.js": "/annavaleska/static/js/main.34d737d8.chunk.js",
+    "main.js.map": "/annavaleska/static/js/main.34d737d8.chunk.js.map",
     "runtime-main.js": "/annavaleska/static/js/runtime-main.ab232644.js",
     "runtime-main.js.map": "/annavaleska/static/js/runtime-main.ab232644.js.map",
     "static/css/2.8cfa95fe.chunk.css": "/annavaleska/static/css/2.8cfa95fe.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.6676b11c.chunk.js.map": "/annavaleska/static/js/2.6676b11c.chunk.js.map",
     "index.html": "/annavaleska/index.html",
     "static/css/2.8cfa95fe.chunk.css.map": "/annavaleska/static/css/2.8cfa95fe.chunk.css.map",
-    "static/css/main.5e3c6a1e.chunk.css.map": "/annavaleska/static/css/main.5e3c6a1e.chunk.css.map",
+    "static/css/main.9662b636.chunk.css.map": "/annavaleska/static/css/main.9662b636.chunk.css.map",
     "static/js/2.6676b11c.chunk.js.LICENSE.txt": "/annavaleska/static/js/2.6676b11c.chunk.js.LICENSE.txt",
     "static/media/artsFour.4e56f28b.jpg": "/annavaleska/static/media/artsFour.4e56f28b.jpg",
     "static/media/work.css": "/annavaleska/static/media/clothesMain.3a370801.jpg",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.ab232644.js",
     "static/css/2.8cfa95fe.chunk.css",
     "static/js/2.6676b11c.chunk.js",
-    "static/css/main.5e3c6a1e.chunk.css",
-    "static/js/main.4e7ad486.chunk.js"
+    "static/css/main.9662b636.chunk.css",
+    "static/js/main.34d737d8.chunk.js"
   ]
 }
